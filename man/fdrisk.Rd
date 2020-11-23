@@ -92,5 +92,5 @@ Blume JD, Greevy RA Jr., Welty VF, Smith JR, Dupont WD (2019). An Introduction t
 Blume JD, D’Agostino McGowan L, Dupont WD, Greevy RA Jr. (2018). Second-generation \emph{p}-values: Improved rigor, reproducibility, & transparency in statistical analyses. \emph{PLoS ONE} 13(3): e0188299. https://doi.org/10.1371/journal.pone.0188299
 }
 \seealso{
-\code{\link{sgpvalue}, \link{sgpower}, \link{plotsgpv}}
+\code{\link{sgpvalue}, \link{sgpower}, \link{plotsgpv}, FDRestimation::p.fdr}
 }

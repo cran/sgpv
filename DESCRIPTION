@@ -1,9 +1,10 @@
 Package: sgpv
 Title: Calculate Second-Generation p-Values and Associated Measures
-Date: 2020-06-23
-Version: 1.0.0
+Date: 2020-11-23
+Version: 1.1.0
 Authors@R: c(
     person("Valerie", "Welty", email = "valerie.welty@vanderbilt.edu", role = c("aut", "cre")),
+    person("Rebecca", "Irlmeier", email = "rebecca.t.irlmeier@vanderbilt.edu", role = "aut"),
     person("Thomas", "Stewart", email = "thomas.stewart@vanderbilt.edu", role = "aut"),
     person("Robert", "Greevy, Jr.", email = "robert.greevy@vanderbilt.edu", role = "aut"),
     person("Lucy", "D'Agostino McGowan", email = "ld.mcgowan@jhu.edu", role = "aut"),
@@ -17,11 +18,12 @@ Encoding: UTF-8
 LazyData: false
 RoxygenNote: 7.1.0
 NeedsCompilation: no
-Packaged: 2020-06-23 15:56:25 UTC; valeriewelty
+Packaged: 2020-11-23 19:15:55 UTC; valeriewelty
 Author: Valerie Welty [aut, cre],
+  Rebecca Irlmeier [aut],
   Thomas Stewart [aut],
   Robert Greevy, Jr. [aut],
   Lucy D'Agostino McGowan [aut],
   Jeffrey Blume [aut]
 Repository: CRAN
-Date/Publication: 2020-07-06 13:40:05 UTC
+Date/Publication: 2020-11-23 21:00:02 UTC
